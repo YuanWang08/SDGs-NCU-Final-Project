@@ -1,0 +1,22 @@
+[Line]
+CHANNEL_ACCESS_TOKEN = 
+CHANNEL_SECRET = 
+
+[AzureTranslator]
+Key = 
+Region = 
+EndPoint = 
+
+[AzureSpeech]
+SPEECH_KEY = 
+SPEECH_REGION = 
+
+[AzureLanguage]
+LANGUAGE_KEY = 
+END_POINT = 
+
+[Deploy]
+URL = 
+
+[Gemini]
+API_KEY= 
